@@ -1,6 +1,6 @@
 # Event App Using Tailwind CSS
 
-This project was created using Next.js and Tailwind CSS.
+This project was created using HTML and Tailwind CSS.
 
 ## Screenshots
 
